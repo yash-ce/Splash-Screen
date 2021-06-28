@@ -1,9 +1,6 @@
 # Splash-Screen
 
 
-# Short vedio
-
-
 
 #Splash Screen
 
